@@ -1,0 +1,12 @@
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\bin\Debug\Tabela e DataBase.exe.config
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\bin\Debug\Tabela e DataBase.exe
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\bin\Debug\Tabela e DataBase.pdb
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela e DataBase.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela_e_DataBase.Form1.resources
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela_e_DataBase.Properties.Resources.resources
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela e DataBase.csproj.GenerateResource.cache
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela e DataBase.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela e DataBase.csproj.CopyComplete
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela e DataBase.exe
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\obj\Debug\Tabela e DataBase.pdb
+C:\Users\aluno_lab4\Desktop\Eduardo Antonio\Tabela e DataBase\Tabela e DataBase\bin\Debug\System.Data.SqlServerCe.dll
